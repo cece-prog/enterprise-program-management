@@ -17,7 +17,7 @@ This repository serves as a live, automated project management framework detaili
 | **Technical Lead** | DevOps Engineering | Migration tooling & infrastructure-as-code (IaC) |
 | **Security Champion** | InfoSec / AppSec | Compliance validation, vulnerability triage policies |
 
-## 🪵 Program Phases & Key Milestones
+## 🚀 Program Phases & Key Milestones
 1. **Phase 1: Discovery & Baseline (Days 1–30):** Audit legacy infrastructure, identify dependencies, map out organization structures.
 2. **Phase 2: Pilot & Enablement (Days 31–60):** Migrate 3 pilot teams, establish inner-sourcing documentation, train team leads.
 3. **Phase 3: Scale Migration (Days 61–150):** Automated wave-based migrations across product lines.
