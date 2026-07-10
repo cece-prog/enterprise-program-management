@@ -1,0 +1,21 @@
+name: TPM Project Automation
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  auto-label-risks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Auto-label Risk Issues
+        if: contains(github.event.issue.title, '[RISK]')
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.addLabels({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              labels: ['risk', 'high-priority']
+            })
