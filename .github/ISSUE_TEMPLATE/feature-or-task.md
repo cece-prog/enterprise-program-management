@@ -6,7 +6,7 @@ labels: ['backlog', 'triage']
 ---
 
 ### 📋 Request Overview
-Provide a clear, high-level summary of the resource or task required for the migration.
+Provide a clear, high-level summary of the resource or task required for the migratin.
 
 ### ⚙️ Technical Requirements & Scope
 - [ ] Detail the explicit engineering work required.
