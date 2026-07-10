@@ -6,7 +6,7 @@ labels: ['risk', 'high-priority']
 ---
 
 ### ⚠️ Risk Event Description
-Provide a clear, detailed overview of the current risk or delivery blocker.
+Provide a clear, detailed overview of the current risk or delivery blicker.
 
 ### 🚨 Potential Impact Area
 - [ ] Timeline Delay (Specify estimated weeks/days)
